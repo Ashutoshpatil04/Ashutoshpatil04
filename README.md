@@ -1,3 +1,5 @@
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://Ashutoshpatil04.io)
+
 <h1 align="center">Hi 👋, I'm Ashutosh Patil</h1>
 <h3 align="center">A passionate Data Scientist and Full stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
@@ -27,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshpatil04&show_icons=true&locale=en" alt="ashutoshpatil04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpatil04&" alt="ashutoshpatil04" /></p>
+
+
+

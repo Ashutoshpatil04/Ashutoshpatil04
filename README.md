@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshpatil04" alt="ashutoshpatil04" /></a> </p>
 
-- 🔭 I’m currently working on **Streamlit websites**
+- 🔭 I’m currently working on **Streamlit websites and MERN stack **
 
-- 🌱 I’m currently learning **Python and Streamlit**
+- 🌱 I’m currently learning **Python and Streamlit and MERN stack and DATA STRUCTURES AND ALGORITHM**
 
 - 📫 How to reach me **ashutoshpatil817@gmail.com**
 

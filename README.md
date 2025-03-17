@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshpatil04" alt="ashutoshpatil04" /></a> </p>
 
-- 🔭 I’m currently working on **Streamlit websites and MERN stack **
+- 🔭 I’m currently working on **A full  MERN stack web application i.e a ELearning system  **
 
 - 🌱 I’m currently learning **Python and Streamlit and MERN stack and DATA STRUCTURES AND ALGORITHM**
 
